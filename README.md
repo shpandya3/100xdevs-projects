@@ -23,6 +23,8 @@ Alongside the structured topics covered in the course, I also build **small proj
 └── README.md     # This file
 ```
 
+---
+
 ## 🏗️ Projects
 
 Some of the practice projects include:
@@ -33,6 +35,8 @@ Some of the practice projects include:
 - 🔹 Mini front-end experiments (React)
 
 _(More to be added as I progress 🚀)_
+
+---
 
 ## 📬 Connect with Me
 
