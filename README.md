@@ -31,8 +31,6 @@ Some of the practice projects include:
 
 - 🔹 Flipkart Clone (HTML, CSS, JS)
 - 🔹 Authentication & Authorization with JWT Using HTTPOnly Cookie, Access Token and Refresh Token
-- 🔹 API Projects (Node.js + Express)
-- 🔹 Mini front-end experiments (React)
 
 _(More to be added as I progress 🚀)_
 
